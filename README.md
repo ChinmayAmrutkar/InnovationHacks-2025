@@ -90,7 +90,7 @@ Made with 💙 by Team PitchPerfect
 
 1. [Aditya Sahasrabuddhe](https://www.linkedin.com/in/adityabs2k/)
 2. [Anushka Satav](https://www.linkedin.com/in/anushka-satav-g55555/)
-3. [Chinmay Amrutkar]()
+3. [Chinmay Amrutkar](https://www.linkedin.com/in/chinmay-amrutkar-153375209/)
 4. [Varad Jahagirdar](https://www.linkedin.com/in/varad-jahagirdar/)
 
 ---
