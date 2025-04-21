@@ -7,6 +7,16 @@ Whether you're a first-time job seeker or a professional aiming to sharpen your 
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 **Best Use of MATLAB by MathWorks**  
+  Used MATLAB for facial verification by comparing submitted profile images with live video frames during interviews for identity validation.
+
+- 🥈 **2nd Prize in Qruil: Job Board Features (Main Track)**  
+  Built a smart interview system that enhances the hiring experience by analyzing sentiment, relevance, and behavior in candidate responses.
+
+---
+
 ## Primary Features
 
 - **Video Input Interface** – Record or upload your mock interview response.
@@ -75,10 +85,9 @@ Watch PitchPerfect in action:
 ## Feedback & Contact
 
 Have ideas or want to contribute?  
-Reach out via [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anushka-satav-g55555/)) or open an issue on GitHub!
+Reach out via [LinkedIn](https://www.linkedin.com/in/anushka-satav-g55555/) or open an issue on GitHub!
 
 ---
-
 
 ## Team & Contributions 🤝 
 
